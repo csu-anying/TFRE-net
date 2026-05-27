@@ -1,0 +1,463 @@
+Received: from pc232-5.mailgun.net (unknown [143.55.232.5])
+	by app2 (Coremail) with SMTP id FEDFygBnEf72b+JoTyU2AQ--.35439S5;
+	Sun, 05 Oct 2025 21:18:15 +0800 (CST)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=wi-lab.com; q=dns/txt; s=mx; t=1759670294; x=1759677494;
+ h=Content-Type: Content-Transfer-Encoding: Message-Id: Reply-To: To: To: From: From: Subject: Subject: Mime-Version: Date: Sender: Sender;
+ bh=AeLGfzPXYEz8pjQAwtbFzvBjdjLYpD89n4htdCD1XVQ=;
+ b=kYEy+Ko/Bx+KW+0m+s4pgdSPF/dFvLmHe4soe484sInIAFMMvIONKBYD4YPg5IveU4JdEgoOktx1niqBOo+zfGrfoWowxspZW+J5i3TG2iwVShVP/gsk9LCoqqYgu9nmbYpK91vsfYKUO8UEsZ2kxcWXZOuqmpyuXu3napAVO9M=
+X-Mailgun-Sid: WyI0Yzk4NSIsIjIzMTgxMjAxOEBjc3UuZWR1LmNuIiwiMjlhMzNjIl0=
+Received: by 2bb0fe2e0a94d70e71a1d0c88f55ae24bf0b11ac054e9448af51602f4ab969fb with HTTP
+ id 68e27016a6739e722c6f78de; Sun, 05 Oct 2025 13:18:14 GMT
+X-Mailgun-Sending-Ip: 143.55.232.5
+Sender: bounce+b9e9a6.29a33c-231812018=csu.edu.cn@wi-lab.com
+Date: Sun, 05 Oct 2025 13:18:14 +0000
+Mime-Version: 1.0
+Subject: BIBM 2025: Regular Paper B1024 Acceptance Notification
+From: bibm-inform@wi-lab.com
+To: anying@csu.edu.cn, 231812018@csu.edu.cn, chenxianlai@csu.edu.cn,
+ guolincsu@csu.edu.cn
+Reply-To: huang@southalabama.edu, zhangfa@bit.edu.cn, xwwang@tsinghua.edu.cn,
+ xfzou@whu.edu.cn, junliu@whu.edu.cn
+Return-Path: 
+Message-Id: <20251005131814.f333ec425b842c04@wi-lab.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+X-CM-TRANSID:FEDFygBnEf72b+JoTyU2AQ--.35439S5
+Authentication-Results: app2; spf=pass smtp.mail=bounce+b9e9a6.29a33c-
+	231812018=csu.edu.cn@wi-lab.com;
+X-Coremail-Antispam: 1UD129KBjvAXoW3uw4xCF18uFWxWryrtF4UXFb_yoW8XF1kXo
+	WSgws8C3WUKr13W3ZYkF4kCFyrWayjgws2qrW7Kr45tF10qF45Ga40va95Jw13Jr4UKF15
+	X34kJ3409F4UtF1fn29KB7ZKAUJUUUU8529EdanIXcx71UUUUU7v73VFW2AGmfu7bjvjm3
+	AaLaJ3UjIYCTnIWjp_UUUOe7k0a2IF6F4UM7kC6x804xWl14x267AKxVW8JVW5JwAFIxvE
+	14AKwVWUAVWUZwA2048vs2IY020E87I2jVAFwI0_Jryl82xGYIkIc2x26xkF7I0E14v26r
+	18M28lY4IEw2IIxxk0rwA2F7IY1VAKz4vEj48ve4kI8wA2z4x0Y4vE2Ix0cI8IcVAFwI0_
+	Ar0_tr1l84ACjcxK6xIIjxv20xvEc7CjxVAFwI0_Gr0_Cr1l84ACjcxK6I8E87Iv67AKxV
+	W8JVWxJwA2z4x0Y4vEx4A2jsIEc7CjxVAFwI0_Gr0_Gr1UM2AIxVAIcxkEcVAq07x20xvE
+	ncxIr21l5I8CrVACY4xI64kE6c02F40Ex7xfMcIj6xIIjxv20xvE14v26r126r1DMcIj6I
+	8E87Iv67AKxVWUJVW8JwAm72CE4IkC6x0Yz7v_Jr0_Gr1lw4CEc2x0rVAKj4xxMx02cVCv
+	0xWlc2xSY4AK6IIF6ry8MxkI7II2jI8vz4vEwIxGrwCYIxAIcVC0I7IYx2IY67AKxVWUJV
+	WUCwCYIxAIcVC0I7IYx2IY6xkF7I0E14v26r1j6r4UMxvI42IY6I8E87Iv67AKxVWUJVW8
+	JwCYIxAIcVC2z280aVCY1x0267AKxVWUJVW8JwCF04k20xvY0x0EwIxGrwCF04k20xvEw4
+	C26cxK6c8Ij28IcwCF72vE77IF4wCFx2IqxVCFs4IE7xkEbVWUJVW8JwC20s026c02F40E
+	14v26r1j6r18MI8I3I0E7480Y4vE14v26r106r1rMI8E67AF67kF1VAFwI0_JF0_Jw1lIx
+	kGc2Ij64vIr41lIxAIcVCF04k26cxKx2IYs7xG6r1j6r1xYxBIdaVFxhVjvjDU0xZFpf9x
+	07jGVbkUUUUU=
+
+Dear Ying An, Ke Du, Xianlai Chen, and Lin Guo,
+
+Congratulations! It is our great pleasure to inform you that your paper (B1=
+024),
+entitled
+
+"SPG-Net: A Structure-aware Spatiotemporal Graph Neural Network for Electro=
+cardiogram-based Myocardial Infarction Localization",
+
+has been accepted as a regular paper at the 2025 IEEE International Confere=
+nce on Bioinformatics and Biomedicine (IEEE BIBM 2025). IEEE BIBM 2025 has =
+received 2083 paper submissions, and each paper was assigned to 4 Program C=
+ommittee members for review. After the rigorous review process, 97% papers =
+have received at least 3 reviews, and the conference has accepted 409 regul=
+ar papers (acceptance rate: 19.6%).
+
+Enclosed at the bottom of this message, please find the review report for y=
+our paper. Please carefully take into account of the enclosed comments by t=
+he reviewers, and submit your final paper by **November 10, 2025**. Please =
+do not forget to register at the same time.
+
+Below is the important message related to the final camera-ready paper subm=
+ission, online registration, student travel award, paper video recording,  =
+visa invitation letter, hotel booking for the conference. Please note that =
+citizens of 43 countries holding valid ordinary passports can be exempted f=
+rom visa requirement if entering into China for the purpose of business, to=
+urism, family or visits, exchange and transit. They can stay in China for n=
+o more than 30 days without visa. The list of these 43 countries could be f=
+ound at this link https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/202412=
+/t20241224_11516392.htm. If you need a visa application letter, pls complet=
+e the online registration and payment and you will get the visa invitation =
+letter right away.
+
+
+(1)	The final camera-ready paper submission deadline is Nov 10, 2025, pls d=
+on=E2=80=99t miss the deadline, otherwise your paper won=E2=80=99t be publi=
+shed in the conference proceedings, Pls follow the URL for the camera-ready=
+ paper submission from the paper submission link at the conference website =
+=2E (the final camera-ready submission site is open now)=20
+https://ieeebibm.org/BIBM2025/
+=E2=80=A2	Regular Papers: 6 pages, including all figures, tables, and refer=
+ences.=20
+
+Regular paper: 20 minutes oral presentation (about 15-16 minutes for talk a=
+nd 4-5 minutes for Q and A)=20
+
+
+PURCHASING EXTRA PAGES:=20
+ The authors could purchase two extra pages if necessary with US$100 per pa=
+ge.=20
+
+(2) Each paper needs to have at least one full registration in order to get=
+ your paper published in the conference proceedings. If you are a student a=
+uthor and you are the only one to register for the paper, then you need to =
+pay the full registration, not the student registration.  The author regist=
+ration deadline is Nov 10, 2025. If you pay by wire-transfer, pls note that=
+ wire-transfer normally take about 10 days to actually transfer the fund fr=
+om your bank account to the IEEE BIBM 2025 bank account, make sure your pay=
+ment is received by Nov 10, 2025, otherwise your paper won=E2=80=99t be pub=
+lished in the conference proceedings.  Pls follow the Registration and Hote=
+l reservation link from=20
+https://ieeebibm.org/BIBM2025/ for the online registration=20
+
+
+(3) The IEEE BIBM 2025 is organized as an in-person conference at Wuhan, Ch=
+ina. To book the hotel rooms using the conference discount rate, please fol=
+low the link Registration and Hotel Reservation from https://ieeebibm.org/B=
+IBM2025/  . Even though the hotel booking discount deadline is December 4, =
+2025. we strongly encourage you to book as earlier as possible, the discoun=
+ted rooms may run out early before the deadline.=20
+
+(4) Every paper needs to prepare a video-recording presentation no matter w=
+hether the authors attend the conference in person or not. The authors need=
+ to upload the video recording  to the conference video server uploading si=
+te https://ieeecps.org/cps/v2/auth/login?conference_video=3D1&pid=3D7v3WzFC=
+WsLWdj0yEUeIIwQ . The deadline to upload the video presentation is Nov 20, =
+2025. For regular paper, the video presentation is limited to no more than =
+20 minutes.=20
+
+
+(5) The conference schedule will be announced around  middle November.  If =
+the authors can=E2=80=99t attend the conference to present the paper in per=
+son, they could ask someone to present it for them. If they can=E2=80=99t f=
+ind anyone to present for them, then the authors should select  "NO" in the=
+ in-person presentation column in the final camera-ready submission site. Y=
+our paper video presentation will be watched by all the participants and yo=
+u could also watch all the conference paper video presentations too. If you=
+ can't attend the conference , that is fine, it won't have any impact on yo=
+ur paper publication in the conference proceedings. But if you select "Yes"=
+ in the in-person presentation in the final camera-ready submission site an=
+d you don't show to present the paper in the conference, the conference won=
+'t submit your final version to IEEE eXplore.  =20
+
+
+(6) Thanks for the student travel grant from National Science Foundation of=
+ USA and other sponsors, the conference will offer about 50-55 student trav=
+el awards (each award is US$800), if you are a student author and would lik=
+e to apply for the student travel award, please email Prof. Bo Song at boso=
+ng+BIBM@drexel.edu the following materials before the deadline Nov 23, 2025=
+=2E
+Your name, affiliation, supporting letter from your advisor or dept chair, =
+paper id and title, registration receipt. All student authors are eligible =
+to apply.
+
+(7) If you need a visa invitation letter to China, pls finish the online re=
+gistration. In the online registration process, it will ask whether you nee=
+d a visa invitation letter to enter Portugal or not. If your answer is yes,=
+ and fill in the relevant information and complete the registration payment=
+,  then the visa invitation letter will be generated and email to  you auto=
+matically by the system.=20
+
+
+If you have any further questions, please feel free to contact us.
+
+
+Best Wishes,
+
+Program Chairs
+Jingshan Huang, University of South Alabama, USA
+Xiaowo Wang, Tsinghua University, China
+Fa Zhang, Beijing Institute of Technology, China
+Xiufen Zou, Wuhan University, China
+
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+        --=3D=3D=3D=3D=3D=3D=3D=3D  Review Reports  =3D=3D=3D=3D=3D=3D=3D=
+=3D--
+
+The review report from reviewer #1:
+
+*1: Is the paper relevant to BIBM?
+  [_] No
+  [X] Yes
+ =20
+*2: How innovative is the paper?
+  [_] 5 (Very innovative)
+  [X] 4 (Innovative)
+  [_] 3 (Marginally)
+  [_] 2 (Not very much)
+  [_] 1 (Not)
+  [_] 0 (Not at all)
+ =20
+*3: How would you rate the technical quality of the paper?
+  [X] 5 (Very high)
+  [_] 4 (High)
+  [_] 3 (Good)
+  [_] 2 (Needs improvement)
+  [_] 1 (Low)
+  [_] 0 (Very low)
+ =20
+*4: How is the presentation?
+  [X] 5 (Excellent)
+  [_] 4 (Good)
+  [_] 3 (Above average)
+  [_] 2 (Below average)
+  [_] 1 (Fair)
+  [_] 0 (Poor)
+ =20
+*5: Is the paper of interest to BIBM users and practitioners?
+  [X] 3 (Yes)
+  [_] 2 (May be)
+  [_] 1 (No)
+  [_] 0 (Not applicable)
+ =20
+*6: What is your confidence in your review of this paper?
+  [X] 2 (High)
+  [_] 1 (Medium)
+  [_] 0 (Low)
+ =20
+*7: Overall recommendation
+  [X] 5 (Strong Accept: top quality)
+  [_] 4 (Accept: a regular paper)
+  [_] 3 (Weak Accept: could be a poster or a short paper)
+  [_] 2 (Weak Reject: don't like it, but won't argue to reject it)
+  [_] 1 (Reject: will argue to reject it)
+  [_] 0 (Strong Reject: hopeless)
+ =20
+*8: Detailed comments for the authors
+  This paper presents SPG-Net, a structure-aware spatiotemporal graph netwo=
+rk designed for myocardial infarction (MI) localization using electrocardio=
+gram (ECG) signals. The authors introduce a novel framework that integrates=
+ clinical priors and dynamic spatiotemporal dependencies in ECG signals. Th=
+e approach is both technically innovative and well-executed, the experiment=
+al results convincingly support the main claims. However, there are several=
+ points that could be further refined to enhance the paper=E2=80=99s clarit=
+y and readability.
+1.	The paper does not provide sufficient justification for the use of the P=
+earson correlation coefficient in Equation (3). While the formula is mathem=
+atically sound, the rationale for using Pearson correlation to define edges=
+ in the class-aware structural graph should be explained.
+2.	There is insufficient information about how the data is split. While the=
+ paper mentions the PTB-XL and PTB datasets, it does not clarify how many s=
+amples were used for training versus testing.=20
+3.	The choice of evaluation metrics is not sufficiently explained. Although=
+ metrics like Macro-F1 and Macro-Precision are commonly used in classificat=
+ion tasks, the authors should elaborate on why these specific metrics were =
+selected for evaluating MI localization.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+The review report from reviewer #2:
+
+*1: Is the paper relevant to BIBM?
+  [_] No
+  [X] Yes
+ =20
+*2: How innovative is the paper?
+  [_] 5 (Very innovative)
+  [X] 4 (Innovative)
+  [_] 3 (Marginally)
+  [_] 2 (Not very much)
+  [_] 1 (Not)
+  [_] 0 (Not at all)
+ =20
+*3: How would you rate the technical quality of the paper?
+  [_] 5 (Very high)
+  [X] 4 (High)
+  [_] 3 (Good)
+  [_] 2 (Needs improvement)
+  [_] 1 (Low)
+  [_] 0 (Very low)
+ =20
+*4: How is the presentation?
+  [_] 5 (Excellent)
+  [X] 4 (Good)
+  [_] 3 (Above average)
+  [_] 2 (Below average)
+  [_] 1 (Fair)
+  [_] 0 (Poor)
+ =20
+*5: Is the paper of interest to BIBM users and practitioners?
+  [X] 3 (Yes)
+  [_] 2 (May be)
+  [_] 1 (No)
+  [_] 0 (Not applicable)
+ =20
+*6: What is your confidence in your review of this paper?
+  [X] 2 (High)
+  [_] 1 (Medium)
+  [_] 0 (Low)
+ =20
+*7: Overall recommendation
+  [_] 5 (Strong Accept: top quality)
+  [X] 4 (Accept: a regular paper)
+  [_] 3 (Weak Accept: could be a poster or a short paper)
+  [_] 2 (Weak Reject: don't like it, but won't argue to reject it)
+  [_] 1 (Reject: will argue to reject it)
+  [_] 0 (Strong Reject: hopeless)
+ =20
+*8: Detailed comments for the authors
+  This paper presents SPG-Net, a novel deep learning model for myocardial i=
+nfarction (MI) localization from ECG data. The authors introduce several in=
+novative techniques, including class-specific adaptive classifiers and a gr=
+aph-spatiotemporal attention mechanism, which show promising results in han=
+dling class imbalance. The paper is well-structured, the motivations and in=
+novations are clearly presented. The minor issues are listed as follows:
+1.	Page 1, Section II, Part A, in the second line of the first paragraph, "=
+(MI)" is redundant and should be deleted.
+2.	The Pearson correlation threshold (=CE=B8) used in graph construction is=
+ not clearly explained. Please clarify how it was determined.
+3.	In Section III, Part A, the description of the Dynamic Bias Weight (DBW)=
+ mechanism, more detailed information on how to select parameter =CE=BBi sh=
+ould be appropriately supplemented.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+The review report from reviewer #3:
+
+*1: Is the paper relevant to BIBM?
+  [_] No
+  [X] Yes
+ =20
+*2: How innovative is the paper?
+  [X] 5 (Very innovative)
+  [_] 4 (Innovative)
+  [_] 3 (Marginally)
+  [_] 2 (Not very much)
+  [_] 1 (Not)
+  [_] 0 (Not at all)
+ =20
+*3: How would you rate the technical quality of the paper?
+  [X] 5 (Very high)
+  [_] 4 (High)
+  [_] 3 (Good)
+  [_] 2 (Needs improvement)
+  [_] 1 (Low)
+  [_] 0 (Very low)
+ =20
+*4: How is the presentation?
+  [X] 5 (Excellent)
+  [_] 4 (Good)
+  [_] 3 (Above average)
+  [_] 2 (Below average)
+  [_] 1 (Fair)
+  [_] 0 (Poor)
+ =20
+*5: Is the paper of interest to BIBM users and practitioners?
+  [X] 3 (Yes)
+  [_] 2 (May be)
+  [_] 1 (No)
+  [_] 0 (Not applicable)
+ =20
+*6: What is your confidence in your review of this paper?
+  [X] 2 (High)
+  [_] 1 (Medium)
+  [_] 0 (Low)
+ =20
+*7: Overall recommendation
+  [X] 5 (Strong Accept: top quality)
+  [_] 4 (Accept: a regular paper)
+  [_] 3 (Weak Accept: could be a poster or a short paper)
+  [_] 2 (Weak Reject: don't like it, but won't argue to reject it)
+  [_] 1 (Reject: will argue to reject it)
+  [_] 0 (Strong Reject: hopeless)
+ =20
+*8: Detailed comments for the authors
+  This paper introduces SPG-Net, a structure-aware spatiotemporal graph net=
+work that significantly advances the state-of-the-art in MI localization fr=
+om ECG signals. The method combines anatomical priors and spatiotemporal de=
+pendencies effectively, outperforming other models in several key areas. Th=
+e paper is well written, the motivations and objectives are clearly present=
+ed, however, there are some minor concerns that should be addressed.
+1.	"MCA-net", "MLresnet" and =E2=80=9CMRM-net=E2=80=9D appear in Tables II =
+and III, which do not seem to be completely inconsistent with the names of =
+the baseline models "MCA-Net", "ML-ResNet" and =E2=80=9CMRM-Net=E2=80=9D de=
+scribed in Section IV-B.
+2.	The last paragraph in Section III-A, a completely duplicated sentence ap=
+peared:=20
+ =E2=80=9CThe full set {G_{\text{prior}}^{(k)} forms the structural prior u=
+sed by the GSCA module.=E2=80=9D
+3.	Some figures are too small to see clearly (e.g. Fig. 3 and Fig. 4). It i=
+s recommended to enlarge the images appropriately and use larger fonts.
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+The review report from reviewer #4:
+
+*1: Is the paper relevant to BIBM?
+  [_] No
+  [X] Yes
+ =20
+*2: How innovative is the paper?
+  [X] 5 (Very innovative)
+  [_] 4 (Innovative)
+  [_] 3 (Marginally)
+  [_] 2 (Not very much)
+  [_] 1 (Not)
+  [_] 0 (Not at all)
+ =20
+*3: How would you rate the technical quality of the paper?
+  [X] 5 (Very high)
+  [_] 4 (High)
+  [_] 3 (Good)
+  [_] 2 (Needs improvement)
+  [_] 1 (Low)
+  [_] 0 (Very low)
+ =20
+*4: How is the presentation?
+  [X] 5 (Excellent)
+  [_] 4 (Good)
+  [_] 3 (Above average)
+  [_] 2 (Below average)
+  [_] 1 (Fair)
+  [_] 0 (Poor)
+ =20
+*5: Is the paper of interest to BIBM users and practitioners?
+  [X] 3 (Yes)
+  [_] 2 (May be)
+  [_] 1 (No)
+  [_] 0 (Not applicable)
+ =20
+*6: What is your confidence in your review of this paper?
+  [X] 2 (High)
+  [_] 1 (Medium)
+  [_] 0 (Low)
+ =20
+*7: Overall recommendation
+  [X] 5 (Strong Accept: top quality)
+  [_] 4 (Accept: a regular paper)
+  [_] 3 (Weak Accept: could be a poster or a short paper)
+  [_] 2 (Weak Reject: don't like it, but won't argue to reject it)
+  [_] 1 (Reject: will argue to reject it)
+  [_] 0 (Strong Reject: hopeless)
+ =20
+*8: Detailed comments for the authors
+  This paper proposes SPG-Net, a novel model aimed at improving myocardial =
+infarction (MI) localization from ECG data. The authors make significant ad=
+vancements in spatiotemporal graph networks, with clear improvements over e=
+xisting techniques. The method shows great promise in handling class imbala=
+nce and capturing complex temporal dependencies. However, this manuscript h=
+as some minor issues which should be considered:
+1.The definition of the "lead contribution map" (LCM) is unclear. Section I=
+II mentions LCMs but does not provide sufficient details about how they are=
+ generated or their significance.
+2.In some Equations, the symbols are not explained. For example, on Pages 5=
+~6, Eq. (11), what do the symbols z_0^R, z_1^R and z_2^R represent respecti=
+vely? Clear definition is required.
+3.Fig. 3 is not sufficiently clear; the elements are difficult to discern a=
+nd the font size is too small. We recommend revising this figure for better=
+ clarity.
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+
+-----------------------
+This email address is for sending only. Replies to this email will not be r=
+eceived.
